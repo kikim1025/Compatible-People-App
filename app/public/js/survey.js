@@ -11,7 +11,6 @@ $(document).ready(function () {
     const render = function(result) {
         $(".container").empty();
         $(".container").html(`Name: ${result.name}<br/>Photo Link: ${result.photo}<br/>`);
-        //<a>
     };
 
     const process = function() {
