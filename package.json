@@ -1,0 +1,20 @@
+{
+  "name": "employeefinder",
+  "version": "1.0.0",
+  "description": "express application to host employee data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js"
+  ],
+  "author": "Ki Beom Kim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
