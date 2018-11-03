@@ -1,7 +1,7 @@
 {
-  "name": "employeefinder",
+  "name": "compatible-personnel-finder",
   "version": "1.0.0",
-  "description": "express application to host employee data",
+  "description": "express application to host survey data and present user with compatible personnel based on survey",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
